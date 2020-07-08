@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+}
+h1{
+    font-size: 32px;
+}
+.my_container {
+    margin-top: 80px;
+}
+
+.carousel_bg {
+    background-color: #fceae8;
+    border-radius: 8px; 
+}
+
+.carousel-indicators li {
+    background-color: darkgrey;
+}
+
+.carousel-item {
+    padding: 20px 40px;
+}
+
+.price {
+    color: #ff136f;
+}
+
+.buy_now {
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100% );
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    
+     box-shadow: 5px 5px 10px lightgrey;
+    border-bottom: 2px solid white;
+}
+
+.categories{
+    margin-top: 80px;
+    
+}
+
+.categories img {
+    width: 130px;
+}
+
+.category_1, .category_2, .category_3 {
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-bottom: 2px solid white;
+    
+}
+
+.category_1 {
+    background-image: linear-gradient(to right, #F7971E 0%, #FFD200 100%);
+}
+
+.category_2 {
+    background-image: linear-gradient(to right, #f80759 0%, #bc4e9c 100%);
+}
+
+.category_3 {
+    background-image: linear-gradient(to right, #4A00E0 0%, #8E2DE2 100%);
+}
+
+.shoes {
+    margin-top: 80px;
+}
+
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+
+
+.backpacks {
+    margin-top: 80px;
+}
+
+.panda_footer {
+    font-weight: 600;
+    
+}
+
+footer {
+    text-align: center;
+    margin: 30px auto;
+}
+
+#contact {
+    height: 220px;
+    background-color: #fceae8;
+    border-radius: 8px;
+    margin-top: 80px;
+    
+}
+
+#subscribe_button {
+    margin-top: 10px;
+        box-shadow: 5px 5px 10px lightgrey;
+    border-bottom: 2px solid white;
+}
+
+#shadow_shoe {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    padding-left: 5px;
+    border-radius: 10px;
+}
+
+#shadow_backpacks {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    padding-left: 5px;
+}
+
+
+
+
+
+
